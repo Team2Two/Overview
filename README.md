@@ -33,7 +33,7 @@ A web application that retrieves data about 3d models and render them for the us
 1. [`Cooperation Plan`](#Cooperation%20Plan)
 2. [`Conflict Plan`](#Conflict%20Plan)
 3. [`Communication Plan`](#Communication%20Plan)
-4. [`Work Plan`](#Work%20Plan)
+4. [`Work`](#Work)
 
 
 # Cooperation Plan
@@ -66,7 +66,7 @@ What is your strategy for ensuring everyone’s voice is heard?<br>
 How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?<br>
 
 
-# Work Plan
+# Work 
 
 How you will identify tasks, assign tasks, know when they are complete, and manage work in general?<br>
 What project management tool will be used?
