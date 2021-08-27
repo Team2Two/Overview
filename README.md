@@ -30,10 +30,10 @@ A web application that retrieves data about 3d models and render them for the us
 
 ## Content
 
-1. [`Cooperation Plan`](#CooperationPlan)
-2. [`Conflict Plan`](#ConflictPlan)
-3. [`Communication Plan`](#CommunicationPlan)
-4. [`Work Plan`](#WorkPlan)
+1. [`Cooperation Plan`](#Cooperation%20Plan)
+2. [`Conflict Plan`](#Conflict%20Plan)
+3. [`Communication Plan`](#Communication%20Plan)
+4. [`Work Plan`](#Work%20Plan)
 
 
 # Cooperation Plan
