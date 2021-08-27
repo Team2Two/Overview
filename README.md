@@ -36,9 +36,7 @@ A web application that retrieves data about 3d models and render them for the us
 4. [`Work`](#Work)
 5. [`Git Process`](#Git)
 
-
 &nbsp;
-
 
 # Cooperation
 
@@ -49,7 +47,6 @@ Knowing that every person in your team needs to understand all aspects of the pr
 
 &nbsp;
 
-
 # Conflict
 
 What will be your group’s process to resolve conflict, when it arises?<br>
@@ -59,7 +56,6 @@ How will you raise concerns to members who are not adequately contributing?<br>
 How and when will you escalate the conflict if your resolution attempts are unsuccessful?<br>
 
 &nbsp;
-
 
 # Communication
 
@@ -73,22 +69,20 @@ How will you ensure that you are creating a safe environment where everyone feel
 
 &nbsp;
 
-
 # Work
 
 How you will identify tasks, assign tasks, know when they are complete, and manage work in general?<br>
 What project management tool will be used?
 
-
 &nbsp;
 
-
-# Git 
+# Git
 
 What components of your project will live on GitHub?<br>
 How will you share the repository with your teammates?<br>
 What is your Git flow?<br>
 Will you be using a PR review workflow? If so, consider:
+
 * How many people must review a PR?
 * Who merges PRs?
 * How often will you merge?
