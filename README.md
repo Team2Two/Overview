@@ -40,10 +40,43 @@ A web application that retrieves data about 3d models and render them for the us
 
 # Cooperation
 
-What are the key strengths of each person on the team?<br>
-How can you best utilize these strengths in the execution of your project?<br>
-In which professional competencies do you each want to develop greater strength?<br>
-Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?<br>
+
+### What are the key strengths of each person on the team?
+
+* Ala Abu Rish / Front-end (CSS)
+* Emam Shararah / Front-end (CSS, React)
+* Maiada Ibrahim / Full-stack (JS, CSS)
+* Mansour Al Batran / Back-end (JS)
+* Tasneem Al-Absi / Back-end (JS)
+
+&nbsp;
+
+
+### How can you best utilize these strengths in the execution of your project?
+
+By assigning tasks based on the competencies for each team member.
+
+
+&nbsp;
+
+
+### In which professional competencies do you each want to develop greater strength?
+
+* Ala Abu Rish / Full-stack (JS, CSS)
+* Emam Shararah / Front-end (CSS, React)
+* Maiada Ibrahim / Full-stack (JS, CSS)
+* Mansour Al Batran / Back-end (JS)
+* Tasneem Al-Absi / Front-end (CSS, React)
+
+
+&nbsp;
+
+
+### Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
+
+
+Each one of us should review the whole progress each day, and try to draw a map to track how the app is functioning so he/she can stay updated.
+
 
 &nbsp;
 
